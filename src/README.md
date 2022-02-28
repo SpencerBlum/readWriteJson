@@ -30,12 +30,12 @@ $ ruby ./run.rb
 ```
 
 ## User Manual 
-#### 1. Select Json Change
+#### Select Json Change
 - I wanted to make it easy to select different json type changes so I added a command line interface to select the json files change types in the document 
 - use UP and DOWN keys to move to a choice on the command line
 - ENTER key selects a file type from the command line
 
-#### 2. View Change
+#### View Change
 - Change is viewable in the new.json file
 
 ## Extras
@@ -49,7 +49,7 @@ $ ruby ./run.rb
 
 ### Coding Choices 
 
-##### 1. 
+##### 
 - If I wanted to scale this to large json files I would want to have a progress bar to show the user the progress of the file upload
 - I would also want to show the different stages of the json manipulation process that I am in 
 
