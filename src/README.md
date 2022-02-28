@@ -53,6 +53,11 @@ $ ruby ./run.rb
 - If I wanted to scale this to large json files I would want to have a progress bar to show the user the progress of the file upload
 - I would also want to show the different stages of the json manipulation process that I am in 
 
+###  Time: 3 hours
+
+##### 
+- If took a little more time than I thought but for not coding in ruby for over a year I feel pretty solid about it. 
+- In my day job I code in react.js everyday. 
 
 
 
