@@ -1,4 +1,4 @@
-# Hello welcome to my json reader and manipulator app!
+# JSON reader and manipulator app!
 
 ## About
 This application reads different json files that have requests for changes in a spotify json file and adds those chages to a new.json file
