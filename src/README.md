@@ -48,7 +48,7 @@ $ ruby ./run.rb
 - I would also want to show the different stages of the change process that I am in 
 
 ### Coding Choices 
-
+ 
 ##### 
 - If I wanted to scale this to large json files I would want to have a progress bar to show the user the progress of the file upload
 - I would also want to show the different stages of the json manipulation process that I am in 
