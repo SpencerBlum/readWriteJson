@@ -38,26 +38,4 @@ $ ruby ./run.rb
 #### View Change
 - Change is viewable in the new.json file
 
-## Extras
-
-### Scalability 
-
-##### - Progress Bar
-- If I wanted to scale this to large json files I would want to have a progress bar to show the user the progress of the file upload
-##### - Stages
-- I would also want to show the different stages of the change process that I am in 
-
-### Coding Choices 
- 
-##### 
-- If I wanted to scale this to large json files I would want to have a progress bar to show the user the progress of the file upload
-- I would also want to show the different stages of the json manipulation process that I am in 
-
-###  Time: 3 hours
-
-##### 
-- If took a little more time than I thought but for not coding in ruby for over a year I feel pretty solid about it. 
-- In my day job I code in react.js everyday. 
-
-
 
